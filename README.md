@@ -1,6 +1,6 @@
 # 🐍 Kaggle Python Fundamentals
 
-This repository contains my completed notebooks from Kaggle’s **Python** course — a hands-on program to strengthen Python fundamentals for data analytics and business insights.
+This repository contains my key completed notebooks from Kaggle’s **Python** course — a hands-on program to strengthen Python fundamentals for data analytics and business insights.
 
 ---
 
