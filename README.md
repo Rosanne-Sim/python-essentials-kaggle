@@ -1,22 +1,15 @@
-# 🐍 Kaggle Python Fundamentals
+# 🐍 Python Foundations for Analytics
+*Practice notebooks from Kaggle’s Intro to Python course.*
 
-This repository contains my key completed notebooks from Kaggle’s **Python** course — a hands-on program to strengthen Python fundamentals for data analytics and business insights.
+This repository contains hands-on exercises focusing on:
+- Logical operations and conditionals  
+- Loops and list comprehensions  
+- Strings and dictionaries  
 
----
-
-## Contents
-| Notebook | Key Focus |
-|-----------|------------|
-| `3_Booleans_and_Conditionals.ipynb` | Applying logical statements and conditional flows |
-| `5_Loops_and_List_Comprehensions.ipynb` | Automating repetitive tasks with loops |
-| `6_Strings_and_Dictionaries.ipynb` | Handling and organizing data effectively |
-
----
-
-## Objective
-To build strong Python fluency for upcoming analytics projects — particularly for data cleaning, iteration, and text/data manipulation.
+Each notebook demonstrates Python fundamentals applied toward data analysis workflows.
 
 ---
 
 **Author:** Rosanne Sim  
-📍 Singapore | 🎓 SIM-UOL Data Science & Business Analytics  
+🎓 SIM-UOL Data Science & Business Analytics  
+
