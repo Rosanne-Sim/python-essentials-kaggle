@@ -1,5 +1,5 @@
 # 🐍 Python Foundations for Analytics
-*Practice notebooks from Kaggle’s Intro to Python course.*
+*Practice notebooks from Kaggle’s Python course.*
 
 This repository contains hands-on exercises focusing on:
 - Logical operations and conditionals  
